@@ -117,7 +117,7 @@ msgid "group"
 msgstr "グループ"
 
 msgid "group content item"
-msgstr ""
+msgstr "グループコンテンツアイテム"
 msgid "Token"
 msgstr "Token"
 
@@ -202,7 +202,7 @@ msgid "Date"
 msgstr "日付"
 
 msgid "Instructor-Led Training"
-msgstr ""
+msgstr "インストラクター-Led トレーニング"
 msgid "Block"
 msgstr "Block"
 
@@ -4295,7 +4295,7 @@ msgid "Locked"
 msgstr "ロック"
 
 msgid "Password reset instructions mailed to %name at %email."
-msgstr ""
+msgstr "パスワードリセット手順を%nameさんの%emailへ送信しました."
 "%name (%email) "
 "さんにパスワード初期化用の案内メールが送信されました。"
 
