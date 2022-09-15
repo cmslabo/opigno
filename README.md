@@ -8,3 +8,5 @@ Download Translation data
   Opigno 8.x-2.16 Japanese https://github.com/cmslabo/opigno/blob/master/opigno_lms-8.x-2.16_ja_20201108.po
 
 Also needs translate Views data at your Opigno site.
+
+Opigno v2 manual Beta Version by Japanese Language :  
