@@ -9,4 +9,4 @@ Download Translation data
 
 Also needs translate Views data at your Opigno site.
 
-Opigno v2 manual Beta Version by Japanese Language :  
+Opigno v2 manual Beta Version by Japanese Language :  https://github.com/cmslabo/opigno/blob/master/opigno_hands-on_guide_2020_1106.pdf
